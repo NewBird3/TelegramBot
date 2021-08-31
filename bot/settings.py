@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-_dprsdk@p)icst-2g!+)5t41&r!nrzdd#^*a*dh2w0$(-jnf6+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://b0ac-2402-3a80-1c03-5870-1c01-b8d5-8450-f858.ngrok.io']
+ALLOWED_HOSTS = ['https://b0ac-2402-3a80-1c03-5870-1c01-b8d5-8450-f858.ngrok.io'] #ngrok url where webhook is set 
 
 
 
